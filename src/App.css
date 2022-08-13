@@ -1,0 +1,18 @@
+html, body {
+  height: 100%;
+}
+#root {
+  height: 100%;
+  border: 2px solid black;
+  
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 2px solid black;
+  height: 100%;
+}
+.mainAndSidebar {
+  display: flex;
+  height: 80%;
+}

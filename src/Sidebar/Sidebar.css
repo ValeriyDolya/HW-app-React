@@ -1,0 +1,11 @@
+.site-sidebar {
+    background-color: rgb(255, 174, 174);
+    color: rgb(228, 94, 94);
+    width: 35%;
+    text-align: center;
+    display: table;
+}
+.site-sidebar h1 {
+    display: table-cell;
+    vertical-align: middle;
+}

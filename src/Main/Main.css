@@ -1,0 +1,11 @@
+.site-main {
+    color: rgb(148, 134, 231);
+    background-color: rgb(220, 250, 255);
+    width: 65%;
+    text-align: center;
+    display: table;
+}
+.site-main h1 {
+    display: table-cell;
+    vertical-align: middle;
+}
